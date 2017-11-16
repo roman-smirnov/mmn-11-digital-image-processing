@@ -7,7 +7,7 @@
 ## thresholding
 
 ## error diffusion thresholding
-![error diffusion]("images/halftoning.jpg")
+![error diffusion](images\error_diffusion.jpg)
 
 ## halftoning
-![halftoning]("images/halftoning.jpg")
+![halftoning](images\halftoning.jpg)
