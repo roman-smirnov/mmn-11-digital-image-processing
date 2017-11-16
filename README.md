@@ -1,5 +1,8 @@
 # mmn-11-digital-image-processing
 
+## Original
+![original image](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/original.jpg)
+
 ## Rotation
 ![rotation](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/rotation_no_interpolation.jpg)
 
