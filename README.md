@@ -6,8 +6,9 @@
 
 ## thresholding
 
+
 ## error diffusion thresholding
-![error diffusion](images\error_diffusion.jpg)
+![error diffusion](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/error_diffusion_dithering.jpg)
 
 ## halftoning
-![halftoning](images\halftoning.jpg)
+![halftoning](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/thresholding.jpg)
