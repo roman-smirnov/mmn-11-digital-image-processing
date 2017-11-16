@@ -1,14 +1,20 @@
 # mmn-11-digital-image-processing
 
-## rotation
+## Rotation
+![rotation](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/rotation_no_interpolation.jpg)
 
-## rotation with billinear interpolation 
+## Rotation with billinear interpolation 
+![rotation bilinear](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/rotation_bilinear_interpolation.jpg)
 
-## thresholding
+## Thresholding
+![thresholding](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/thresholding.jpg)
 
+## Halftoning
+![halftoning](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/halftoning.jpg)
 
-## error diffusion thresholding
-![error diffusion](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/error_diffusion_dithering.jpg)
+## Dithering
+![dithering](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/dithering.jpg)
 
-## halftoning
-![halftoning](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/thresholding.jpg)
+## Error diffusion dithering
+![error diffusion dithering](https://github.com/roman-smirnov/mmn-11-digital-image-processing/blob/master/images/error_diffusion_dithering.jpg)
+
